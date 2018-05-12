@@ -1,4 +1,8 @@
 _repo: Deutsche-Humoristen-Band-6-Humoristische-Erzahlungen_50681
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50681-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Urban, Henry F.
@@ -20,6 +24,8 @@ creator:
     gutenberg_agent_id: '46036'
     url: http://www.gutenberg.org/2009/agents/46036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50681#Deutsche-Humoristen-Band-6-Humoristische-Erzahlungen
 gutenberg_issued: '2015-12-13'
 gutenberg_type: Text
 identifiers:
